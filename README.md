@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <a href="https://chromedino.com">
   <picture>
@@ -7,6 +7,8 @@
     <img alt="https://mrousavy.com" src="./img/dino.gif" />
   </picture>
 </a>
+
+### Hi there 👋
 
 <!--
 **k-saparia/k-saparia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
